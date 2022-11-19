@@ -4581,7 +4581,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ┃╰━━━━━━━━━━━━━━━╯
 ╰━━━╼⃟݊⃟̥⃝̇݊݊⃟ 𝙍𝙀𝙉 𝘽𝙊𝙏𝙕 ݊⃟̥⃝̇݊⃟╾━━━╯
  ▰▱▰▱▰▱▰▱▰▱▰▱▰▱
-© 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙`, contextInfo:{"externalAdReply": {"title": `SC 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙`,"body": `Selamat ${salam} kak ${pushname}`,
+© 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙`, contextInfo:{"externalAdReply": {"title": `SC 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
@@ -4623,7 +4623,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╠➤𝐣𝐚𝐝𝐢𝐛𝐮𝐠𝐬𝐰 [𝐌𝐚𝐬𝐮𝐤𝐚𝐧 𝐭𝐞𝐱𝐭 𝐧𝐲𝐚]
 ╠➤𝐣𝐚𝐝𝐢𝐛𝐮𝐠𝐛𝐨𝐤𝐞𝐩 [𝐌𝐚𝐬𝐮𝐤𝐚𝐧 𝐭𝐞𝐱𝐭 𝐧𝐲𝐚]
 ╠➤𝐣𝐚𝐝𝐢𝐛𝐮𝐠𝐛𝐮𝐭𝐭𝐨𝐧 [𝐌𝐚𝐬𝐮𝐤𝐚𝐧 𝐭𝐞𝐱𝐭 𝐧𝐲𝐚]
-╚════[ 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙 ]══════⊱
+╚════[ 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙 ]══════⊱
 ╔════[ 𝐕𝐈𝐏 ]═══════⊱
 ╠➤🧄
 ╠➤🍆
@@ -4646,7 +4646,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╠➤🍉
 ╠➤🍒
 ╠➤🍓
-╚════[ 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙 ]══════⊱
+╚════[ 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙 ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 ╔════[ 𝐕𝐈𝐏 ]═══════⊱
@@ -4710,7 +4710,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╠➤𝐨𝐤𝐞𝐦𝐞𝐱 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
 ╠➤𝐚𝐡𝐲𝐚𝐧𝐠𝐛𝐞𝐭𝐮𝐥 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
 ╠➤𝐚𝐦𝐩𝐮𝐧𝐬𝐮𝐡𝐮 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╚════[ 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙 ]══════
+╚════[ 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙 ]══════
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 ╔════[ 𝐁𝐔𝐆 𝐒𝐏𝐄𝐂𝐈𝐀𝐋 ]══════⊱
@@ -4719,7 +4719,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╠➤𝐫𝐞𝐧𝐣𝐚𝐠𝐨𝐚𝐧 [ 𝐫𝐞𝐩𝐥𝐲 𝐭𝐚𝐫𝐠𝐞𝐭 ]
 ╠➤𝐫𝐞𝐧𝐤𝐨𝐩𝐥𝐢𝐧𝐠 [ 𝐇𝐚𝐫𝐮𝐬 𝐌𝐞𝐧𝐣𝐚𝐝𝐢 𝐀𝐝𝐦𝐢𝐧 ]
 ╠➤𝐛𝐮𝐠𝐭𝐢𝐤𝐭𝐨𝐤 [ 𝐋𝐢𝐧𝐤 ] - 𝐁𝐮𝐠 𝐒𝐰
-╚════[ 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙 ]══════⊱
+╚════[ 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙 ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 ╔══════[ 𝐁𝐔𝐆 𝐓𝐀𝐑𝐆𝐄𝐓 ]══════⊱
@@ -4728,7 +4728,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╠➤𝐫𝐞𝐧𝐬𝐤𝐮𝐲 𝟔𝟐𝟖𝐱𝐱𝐱
 ╠➤𝐫𝐞𝐧𝐬𝐚𝐧𝐭𝐞𝐭 𝟔𝟐𝟖𝐱𝐱𝐱@𝐬.𝐰𝐡𝐚𝐭𝐬𝐚𝐩𝐩.𝐧𝐞𝐭|𝟏𝟎|𝟏𝟎𝐬
 ╠➤𝐜𝐚𝐭𝐚𝐥𝐨𝐠𝐩𝐜 𝟔𝟐𝟖𝐱𝐱𝐱@𝐬.𝐰𝐡𝐚𝐭𝐬𝐚𝐩𝐩.𝐧𝐞𝐭|𝟏𝟎|𝟏𝟎𝐬
-╚════[ 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙 ]══════⊱
+╚════[ 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙 ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 𝐊𝐞𝐭𝐢𝐤 > 𝐦.𝐜𝐡𝐚𝐭 ( 𝐝𝐢 𝐠𝐫𝐨𝐮𝐩 𝐝𝐮𝐥𝐮🌷)
@@ -4736,7 +4736,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╠➤𝐠𝐚𝐬𝐫𝐞𝐧 𝟏𝟏𝟐𝟔𝟕𝟒𝟒𝟒𝟖𝐱𝐱𝐱
 ╠➤𝐫𝐞𝐧𝐬𝐚𝐧𝐭𝐞𝐭𝐠𝐜  𝟏𝟐𝟑𝟕𝟖𝟗𝟏𝐱𝐱𝐱𝐱@𝐠.𝐮𝐬|𝟏𝟎|𝟏𝟎𝐬
 ╠➤𝐜𝐚𝐭𝐚𝐥𝐨𝐠𝐠𝐜 𝟏𝟐𝟑𝟕𝟖𝟗𝟏𝐱𝐱𝐱𝐱@𝐠.𝐮𝐬|𝟏𝟎|𝟏𝟎𝐬
-╚════[ 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙 ]══════⊱
+╚════[ 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙 ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 ╔══════[ 𝐕𝐈𝐑𝐓𝐄𝐗𝐓 ]══════⊱
@@ -4770,7 +4770,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╠➤𝐜𝐫𝐚𝐬𝐡𝐚𝐫𝟏𝟖 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
 ╠➤𝐜𝐫𝐚𝐬𝐡𝐚𝐫𝟏𝟗 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
 ╠➤𝐜𝐫𝐚𝐬𝐡𝐚𝐫𝟐𝟎 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╚════[ 𝑩𝑰𝑵𝒁 𝑩𝑶𝑻𝒁 ]══════⊱
+╚════[ 𝑨𝑹𝑭𝑰 𝑩𝑶𝑻𝒁 ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 ╔══════[ 𝐁𝐔𝐆 𝐒𝐏𝐀𝐌 ]══════⊱
@@ -4874,7 +4874,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╠➤𝐫𝐞𝐧𝟏𝟏 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
 ╠➤𝐫𝐞𝐧𝟏𝟐 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
 ╠➤𝐬𝐩𝐚𝐦 [ 𝐑𝐞𝐩𝐥𝐲 𝐏𝐞𝐬𝐚𝐧 ]
-╚════[ 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙 ]══════⊱
+╚════[ 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙 ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 ╔══════[ 𝐉𝐀𝐃𝐈 𝐁𝐔𝐆 ]══════⊱
@@ -4883,7 +4883,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╠➤𝐣𝐚𝐝𝐢𝐛𝐮𝐠𝟑 [ 𝐑𝐞𝐩𝐥𝐲 𝐀𝐮𝐝𝐢𝐨 𝐉𝐚𝐝𝐢 𝐁𝐮𝐠 𝐕𝐧 ]
 ╠➤𝐣𝐚𝐝𝐢𝐛𝐮𝐠𝟒 [ 𝐑𝐞𝐩𝐥𝐲 𝐒𝐭𝐢𝐜𝐤𝐞𝐫 𝐉𝐚𝐝𝐢 𝐁𝐮𝐠 𝐆𝐚𝐦𝐛𝐚𝐫 ]
 ╠➤𝐣𝐚𝐝𝐢𝐛𝐮𝐠𝟓 [ 𝐑𝐞𝐩𝐥𝐲 𝐆𝐚𝐦𝐛𝐚𝐫 𝐉𝐚𝐝𝐢 𝐁𝐮𝐠 𝐎𝐧𝐜𝐞 ] 
-╚════[ 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙 ]══════⊱
+╚════[ 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙 ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 ╔══════[ 𝐁𝐔𝐆 𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓 ]══════⊱
@@ -4891,8 +4891,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╠➤𝐛𝐮𝐠𝐛𝐜𝐯𝐢𝐝𝐞𝐨 [ 𝐁𝐮𝐠 𝐕𝐢𝐝𝐞𝐨 𝐁𝐫𝐨𝐚𝐝𝐜𝐚𝐬 ]
 ╠➤𝐛𝐮𝐠𝐛𝐜 𝐚𝐮𝐝𝐢𝐨 [ 𝐁𝐮𝐠 𝐀𝐮𝐝𝐢𝐨 𝐁𝐫𝐨𝐚𝐝𝐜𝐚𝐬𝐭 ]
 ╠➤𝐛𝐮𝐠𝐛𝐜𝐭𝐞𝐱𝐭 [ 𝐁𝐮𝐠 𝐓𝐞𝐱𝐭 𝐁𝐫𝐨𝐚𝐝𝐜𝐚𝐬𝐭 ]
-╚════[ 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙 ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SC 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[ 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙 ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SC 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
@@ -4911,7 +4911,7 @@ var catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "productImage": messa.imageMessage,
 "productId": "449756950375071",
 "title": ` © Hay Kak ${pushname} 👋 Selamat ${salam} Apa Yang Bisa Saya Bantu 🙏`,
-"description": ` - © © 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙 -
+"description": ` - © © 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙 -
 
 ◎ Owner : ${botname}
 ◎ Lib : Multi-Device
@@ -4950,8 +4950,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤cantik
 ╠➤kesel
 ╠➤ngeselin
-╚════[ © 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙 ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SC © 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[ © 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙 ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SC © 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
@@ -4986,8 +4986,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤heleh
 ╠➤holoh
 ╠➤delttt]
-╚════[ © 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙 ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SC © 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[ © 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙 ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SC © 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
@@ -5031,8 +5031,8 @@ nomorhoki
 ╠➤masasubur
 ╠➤zodiak
 ╠➤shio
-╚════[ © 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙 ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SC © 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[ © 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙 ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SC © 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
@@ -5050,8 +5050,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤alquran
 ╠➤juzamma
 ╠➤tafsirsurah
-╚════[ © 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙 ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SC © 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[ © 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙 ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SC © 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
@@ -5080,8 +5080,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤antara-news
 ╠➤cnn-news
 ╠➤fajar-news
-╚════[ © 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙 ]══════⊱ `,
-contextInfo:{"externalAdReply": {"title": `SC © 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[ © 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙 ]══════⊱ `,
+contextInfo:{"externalAdReply": {"title": `SC © 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
@@ -5119,7 +5119,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤penjara
 ╠➤intro
 ╚════[ © 𝑩𝑰𝑵𝒁 𝑩𝑶𝑻𝒁 ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SC © 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙`,"body": `Selamat ${salam} kak ${pushname}`,
+contextInfo:{"externalAdReply": {"title": `SC © 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
@@ -5144,8 +5144,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤robot
 ╠➤slow
 ╠➤tupai
-╚════[ © 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙 ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SC © 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[ © 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙 ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SC © 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
@@ -5180,8 +5180,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤wikimedia [query]
 ╠➤ringtone [query]
 ╠➤searchgroups [query]
-╚════[ © 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙 ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SC © 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[ © 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙 ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SC © 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
@@ -5213,8 +5213,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤styletext
 ╠➤smeme
 ╠➤ss [url]
-╚════[ © 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙 ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SC © 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[ © 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙 ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SC © 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
@@ -5232,8 +5232,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤listcmd
 ╠➤delcmd
 ╠➤lockcmd
-╚════[ © 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙 ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SC © 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[ © 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙 ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SC © 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
@@ -5283,8 +5283,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤listgc
 ╠➤listonline
 ╠➤speedtest
-╚════[ © 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙 ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SC © 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[ © 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙 ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SC © 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
@@ -5321,8 +5321,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤darkjoke
 ╠➤meme
 ╠➤meme2
-╚════[ © 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙 ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SC © 𝐑𝐄𝐍 𝐁𝐎𝐓𝐙`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[ © 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙 ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SC © 𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/c/HwModsWa857`,
